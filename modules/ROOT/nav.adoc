@@ -1,0 +1,4 @@
+* xref:site::index.adoc[Home]
+
+// Include navs from each component
+include::isa::nav.adoc[]
