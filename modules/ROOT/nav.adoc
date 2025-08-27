@@ -2,3 +2,4 @@
 
 // Include navs from each component
 include::isa::nav.adoc[]
+include::etrace::nav.adox[]
