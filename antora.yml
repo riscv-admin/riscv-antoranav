@@ -2,4 +2,4 @@ name: riscv
 title: Global Docs
 version: latest
 nav: 
-  -modules/ROOT/nav.adoc
+  - modules/ROOT/nav.adoc
