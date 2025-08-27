@@ -1,5 +1,5 @@
-* xref:site::index.adoc[]
+* include:site::index.adoc[]
 
 // Include navs from each component
-xref::isa::nav.adoc[]
-xref::psabi::nav.adoc[]
+include::isa::nav.adoc[]
+include::psabi::nav.adoc[]
